@@ -1,2 +1,5 @@
 # Hello-world
-Sólo otro repositorio
+
+¡Hola!
+
+Me gusta escuchar música y conocer nuevos lugares.
